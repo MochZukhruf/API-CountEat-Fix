@@ -13,7 +13,9 @@ req.body :
 	"username": "username",
 	"email": "email@mail",
 	"password": "password",
-	"confirmPass": "password"
+	"confirmPass": "password",
+	"gender": "wanita/pria"
+
 }
 ```
 
