@@ -45,7 +45,7 @@ req.body :
 res.status(201).json :
 
 ```json
-{"error":false,"status":"success","message":"User Created"}
+{"error":false,"status":"success","message":"User Has Been Added and Updated"}
 ```
 
 
