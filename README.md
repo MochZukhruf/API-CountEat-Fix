@@ -88,6 +88,6 @@ res.status(200).json :
     	"error": false,
 	"status": "success",
    	"username": "username",
-   	"bmr": bmr
+   	"bmr": "bmr"
 }
 ```
