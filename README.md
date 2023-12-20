@@ -87,7 +87,7 @@ res.status(200).json :
 {
     	"error": false,
 	"status": "success",
-   	"username": "zukhrufain23",
-   	"bmr": 1614
+   	"username": "username",
+   	"bmr": bmr
 }
 ```
