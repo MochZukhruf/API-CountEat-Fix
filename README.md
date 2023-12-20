@@ -30,7 +30,7 @@ res.status(201).json :
 
 ## Isi Data/Update Akun
 
-Route : /updatedetail  
+Route : /updatedetail/username
 Method : POST  
 req.body :
 
@@ -74,5 +74,20 @@ res.status(200).json :
 		"username": "username",
 		"token": "token"
 	}
+}
+```
+## Get BMR
+
+Route : /getbmr/username
+Method : GET
+
+res.status(200).json :
+
+```json
+{
+    	"error": false,
+	"status": "success",
+   	"username": "zukhrufain23",
+   	"bmr": 1614
 }
 ```
