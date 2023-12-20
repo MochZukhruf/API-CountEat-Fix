@@ -78,7 +78,7 @@ res.status(200).json :
 ```
 ## Get BMR
 
-Route : /getbmr/username
+Route : /getbmr/username  
 Method : GET
 
 res.status(200).json :
